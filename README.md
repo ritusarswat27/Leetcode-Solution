@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
