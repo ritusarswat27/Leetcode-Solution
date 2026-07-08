@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
