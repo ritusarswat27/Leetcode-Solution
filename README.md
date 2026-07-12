@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1068-product-sales-analysis-i) |
