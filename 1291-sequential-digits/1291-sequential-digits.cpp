@@ -21,21 +21,35 @@ public:
 
 
 
+        //Better Approach
+        // vector<int> ans;
+        // for(int i=1; i<=9; i++) {
+        //     int num = i;
+        //     for(int j=i+1; j<=9; j++) {
+        //         num = num * 10 + j;
+                
+        //         if(num >= low && num <= high) ans.push_back(num);
+        //         if(num > high) break;
+        //     }
+        // }
+        // sort(ans.begin() , ans.end());
+        // return ans;
+
+
+
         //Optimal Approach
         vector<int> ans;
-        for(int i=1; i<=9; i++) {
-            int num = i;
-            for(int j=i+1; j<=9; j++) {
-                num = num * 10 + j;
-                
+        string s = "123456789";
+        string l = to_string(low);
+        string h = to_string(high);
+
+        for(int i=l.size(); i<=h.size(); i++) {
+            for(int j=0; j<=9-i; j++) {
+                string n = s.substr(j , i);
+                int num = stoi(n);
                 if(num >= low && num <= high) ans.push_back(num);
-                if(num > high) break;
             }
         }
-        sort(ans.begin() , ans.end());
-        return ans;
-
-
-        
+        return ans;    
     }
 };
