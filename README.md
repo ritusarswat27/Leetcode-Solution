@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
