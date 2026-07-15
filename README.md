@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1045-customers-who-bought-all-products) |
