@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -123,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
