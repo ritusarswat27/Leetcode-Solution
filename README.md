@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [1288-remove-covered-intervals](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
