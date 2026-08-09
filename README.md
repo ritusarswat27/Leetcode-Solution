@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
@@ -189,9 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
