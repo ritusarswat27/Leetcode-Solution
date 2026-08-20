@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
