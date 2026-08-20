@@ -35,7 +35,7 @@ public:
                 }
             }
         }
-        if(distanceGrid[n-1][n-1] == INT_MAX) return -1;
-        return distanceGrid[n-1][n-1];    
+        // if(distanceGrid[n-1][n-1] == INT_MAX) return -1;
+        return(distanceGrid[n-1][n-1] == INT_MAX) ? -1 : distanceGrid[n-1][n-1];    
     }
 };
