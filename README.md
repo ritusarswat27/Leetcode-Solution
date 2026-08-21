@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
@@ -247,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -279,5 +286,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
