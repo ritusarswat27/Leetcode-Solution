@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0038-count-and-say) |
 | [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
