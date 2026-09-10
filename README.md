@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -378,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
