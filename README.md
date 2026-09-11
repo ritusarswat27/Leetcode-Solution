@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -393,5 +397,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
