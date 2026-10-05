@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
+| [0856-score-of-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
