@@ -21,17 +21,32 @@ public:
 
 
         //Using Stack
-        stack<char> st;
-        string ans = "";
+        // stack<char> st;
+        // string ans = "";
 
+        // for(char c : s) {
+        //     if(c == '(') {
+        //         if(!st.empty()) ans.push_back(c);
+        //         st.push(c);
+        //     }
+        //     else{
+        //         st.pop();
+        //         if(!st.empty()) ans.push_back(c);
+        //     }
+        // }
+        // return ans;
+
+
+        int depth = 0;
+        string ans = "";
         for(char c : s) {
             if(c == '(') {
-                if(!st.empty()) ans.push_back(c);
-                st.push(c);
+                if(depth > 0) ans.push_back(c);
+                depth++;
             }
             else{
-                st.pop();
-                if(!st.empty()) ans.push_back(c);
+                depth--;
+                if(depth > 0) ans.push_back(c);
             }
         }
         return ans;
