@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
