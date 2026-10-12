@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
+| [1137-n-th-tribonacci-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
