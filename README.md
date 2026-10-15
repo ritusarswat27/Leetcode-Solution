@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0827-making-a-large-island) |
+| [0989-add-to-array-form-of-integer](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
+| [0989-add-to-array-form-of-integer](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
