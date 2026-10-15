@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
