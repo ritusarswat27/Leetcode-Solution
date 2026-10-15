@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
