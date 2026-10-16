@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        if(root == NULL) return NULL;
+        if(root == NULL) return root;
         queue<TreeNode*> q;
         q.push(root);
 
@@ -23,7 +23,6 @@ public:
             if(node->left != NULL) q.push(node->left);
             if(node->right) q.push(node->right);
         }
-        return root;
-        
+        return root;    
     }
 };
