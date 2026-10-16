@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sorting
 |  |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
