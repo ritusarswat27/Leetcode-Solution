@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0815-bus-routes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0815-bus-routes) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -225,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
