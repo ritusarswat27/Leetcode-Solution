@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
