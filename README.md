@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0827-making-a-large-island) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
