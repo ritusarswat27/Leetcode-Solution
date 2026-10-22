@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
