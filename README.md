@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
