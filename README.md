@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0542-01-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0743-network-delay-time) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
+| [0617-merge-two-binary-trees](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0743-network-delay-time) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
+| [0617-merge-two-binary-trees](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
+| [0617-merge-two-binary-trees](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
