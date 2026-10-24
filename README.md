@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Shortest Path
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1518-water-bottles) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Dijkstra's Algorithm
