@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0721-accounts-merge](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0721-accounts-merge) |
+| [0844-backspace-string-compare](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/1518-water-bottles) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritusarswat27/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
